@@ -1,0 +1,8 @@
+@media (max-width: 576px) {
+  form {
+    padding: 2rem !important;
+  }
+}
+.badge {
+  font-size: 0.7rem;
+}
